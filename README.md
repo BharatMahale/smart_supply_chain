@@ -83,8 +83,5 @@ This system:
 
 ---
 
-## ▶️ How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## Live
+Link: **https://smartsupplychain-bzedarlcrzugj7qvh8ius9.streamlit.app/**
