@@ -1,0 +1,6 @@
+order_id,customer,lat,lon,priority,weight,traffic,weather
+1,A,19.8762,75.3433,High,10,High,Rain
+2,B,19.8840,75.3200,Medium,5,Medium,Clear
+3,C,19.9000,75.3500,Low,7,Low,Fog
+4,D,19.8700,75.3600,High,8,High,Storm
+5,E,19.8600,75.3300,Medium,6,Medium,Clear
